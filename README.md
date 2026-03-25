@@ -5,7 +5,9 @@
 
 This prototype was developed by **Suryansh Chandel**, a prospective participant for **Google Summer of Code 2026** from **Motilal Nehru National Institute of Technology (MNNIT), Allahabad, India**.
 
-The goal of this project is to explore interactive visualization of qubit states using a Bloch sphere. As an initial step, I developed a working prototype that allows users to visualize and interact with basic quantum states on the Bloch sphere using QuTiP and Matplotlib. This prototype serves as a starting point for further development of more advanced interactive features.
+The goal of this project is to explore interactive visualization of qubit states using a Bloch sphere.
+As an initial step, I developed a working prototype that allows users to visualize and interact with basic quantum states on the Bloch sphere using QuTiP and Matplotlib.
+This prototype serves as a starting point for further development of more advanced interactive features.
 
 ---
 
