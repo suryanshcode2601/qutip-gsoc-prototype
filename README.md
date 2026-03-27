@@ -92,7 +92,7 @@ An example output of the prototype is included in this repository.
 ## Author
 
 **Suryansh Chandel**  
-suryanshwork3456@gmail.com
+suryanshwork2601@gmail.com
 Prospective GSoC 2026 Participant  
 Motilal Nehru National Institute of Technology (MNNIT), Allahabad  
 India
